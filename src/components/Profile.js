@@ -3,13 +3,14 @@ import './Profile.css'
 
 class Profile extends PureComponent {
   render(){
-    var { name, age, bio } = this.props;
+    var { name, age, bio, pic } = this.props;
     console.log(this.props.name)
     return(
       <div className="profile-box">
-        <h3>{name}</h3>
-        <h3>age: {age}</h3>
-        <h3>bio: {bio}</h3>
+        <h2>{name}</h2>
+        <h4>age: {age}</h4>
+        <h4>bio: {bio}</h4>
+        <img src={pic} alt="selfie" height={100}/>
       </div>
     )
   }

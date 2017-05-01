@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
 }
-
+*/
 h2 {
   font-weight: 500;
   margin: 0px;
@@ -33,7 +33,7 @@ form {
 .search-box {
   margin: 16px;
   margin-bottom: 2px;
-}*/
+}
 
 .profile-box {
   display: inline-block;

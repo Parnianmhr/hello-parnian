@@ -15,8 +15,8 @@ class App extends Component {
           More will come soon.
         </p>
         <h1>Parnian is here!</h1>
-        <Profile name={"parnian"} bio={"I love cats"} age={38}/>
-        <Profile name={"Frits"} bio={"I am a cat"} age={7}/>
+        <Profile name="parnian" bio="I love cats" age={38} pic="http://www.clipartbest.com/cliparts/bTy/og6/bTyog6zbc.png"/>
+        <Profile name="Frits" bio="I am a cat" age={7} pic="https://s-media-cache-ak0.pinimg.com/236x/cb/d7/7a/cbd77a4db34ac2b8c2a25a395153162f.jpg"/>
       </div>
     );
   }
