@@ -1,0 +1,9 @@
+section#colors {
+  margin: 36px auto;
+  padding: 36px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 500px;
+  justify-content: center;
+}
