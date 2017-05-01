@@ -15,8 +15,8 @@ class App extends Component {
           More will come soon.
         </p>
         <h1>Parnian is here!</h1>
-        <Profile name={"parnian"} bio={"something as bio"} age={38}/>
-        <Profile name={"alwik"} bio={"something as bio"} age={42}/>
+        <Profile name={"parnian"} bio={"I love cats"} age={38}/>
+        <Profile name={"Frits"} bio={"I am a cat"} age={7}/>
       </div>
     );
   }
