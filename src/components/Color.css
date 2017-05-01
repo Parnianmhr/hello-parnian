@@ -1,9 +1,9 @@
-section#colors {
+section.colors {
   margin: 36px auto;
   padding: 36px;
   display: flex;
   align-items: center;
   flex-direction: column;
-  width: 500px;
+  width: 200px;
   justify-content: center;
 }

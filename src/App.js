@@ -20,7 +20,7 @@ class App extends Component {
         <Profile name="Frits" bio="I am a cat" age={7} pic="https://s-media-cache-ak0.pinimg.com/236x/cb/d7/7a/cbd77a4db34ac2b8c2a25a395153162f.jpg"/>
         <Profile name="Zoe" bio="I am a electric car" age={4} pic="http://myrenaultzoe.com/wp-content/uploads/2012/11/6860195188-ba8f742d82_Renault_Zoe_Flickr.jpg"/>
         <div>
-          <Color name="colors" />
+          <Color />
         </div>
       </div>
     );
